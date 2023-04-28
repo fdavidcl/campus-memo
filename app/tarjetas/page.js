@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from 'react'
 import FormNueva from './formnueva'
 import Tarjeta from './tarjeta'
